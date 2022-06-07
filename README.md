@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Simon Kapustnikov
+- 👀 I’m interested in Python, music and some more
+- 🌱 I’m currently learning Django, aiogram
+- 📫 How to reach me: s.v.kapustnikov@gmail.com
